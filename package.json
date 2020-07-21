@@ -167,7 +167,7 @@
     "leven": "^3.1.0",
     "levenary": "^1.1.1",
     "locate-path": "^3.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "loose-envify": "^1.4.0",
     "lowercase-keys": "^1.0.1",
     "make-dir": "^2.1.0",
