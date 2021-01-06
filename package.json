@@ -19,7 +19,7 @@
     "assign-symbols": "^1.0.0",
     "async-each": "^1.0.3",
     "atob": "^2.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "balanced-match": "^1.0.0",
     "base": "^0.11.2",
