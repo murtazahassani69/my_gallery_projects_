@@ -193,7 +193,7 @@
     "node-environment-flags": "^1.0.6",
     "node-modules-regexp": "^1.0.0",
     "node-releases": "^1.1.58",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "nodemailer-mailgun-transport": "^2.0.0",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
