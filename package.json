@@ -197,7 +197,7 @@
     "nodemailer-mailgun-transport": "^2.0.0",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
-    "normalize-url": "^4.5.0",
+    "normalize-url": "^4.5.1",
     "object-copy": "^0.1.0",
     "object-inspect": "^1.8.0",
     "object-keys": "^1.1.1",
